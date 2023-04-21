@@ -1,0 +1,44 @@
+body {
+    margin: 20px;
+    padding: 15px 30px;
+    
+    margin-left: 35%;
+  }
+  form {
+    width: 50%;
+    align-self: center;
+  }
+  .fs {
+    width: 47.9%;
+  }
+  H1 {
+    font-family: "Times New Roman", Times, serif;
+    color: darkgreen;
+    text-align: center;
+  }
+  .CONTAINER {
+    background-color:greenyellow;
+    width: 365px;
+    padding: 15px 25px 15px 25px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 4px;
+  }
+  input[TYPE="TEXT"],
+  input[TYPE="NUMBER"],
+  SELECT {
+    width: 50%;
+    padding: 12px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 4px;
+    margin: 15px 30px;
+  }
+  
+  input[TYPE="button"] {
+    background-color: rgb(14, 247, 111);
+    color: black;
+    padding: 15px 15px;
+    border: PX solid black;
+    border-radius: 4px;
+    width: 30%;
+    cursor: pointer;
+  }
